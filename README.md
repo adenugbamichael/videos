@@ -1,18 +1,60 @@
-# Getting Started with Create React App
+<h3 align="center">
+  React Application with Semantic-ui | Youtube-api-v3 
+</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="#rocket-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#runner-installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#hammer-deploy">Test</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="http://localhost:3000/" target="_blank" > Build</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-## Available Scripts
+<br>
 
-In the project directory, you can run:
+<table>
+      <tr>
+            <td colspan="2">
+                  <br />
+                  <div>
+                        💬&nbsp; 
+                        💼&nbsp; <code>Javascript</code>, <code>React</code> <code>Youtube-api-v3</code>, <code>Semantic-ui</code>, <code>Axios</code>
+                  </div>
+                  <br />
+            </td>
+      </tr>
+</table>
 
-### `npm start`
+<p align="center">
+  <img align="center" src="./src/assets/tech.png" alt="flowers" border="0"></p>
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## :rocket: About the project
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<table>
+      <tr>
+            <td colspan="2">
+                  <br />
+                  <div>
+                        📱&nbsp; <code>The goal of this project was to demonstrate 📮 how to get feedback from user, fetch data from API or server then show lists of videos(youtube-like) content when you enter in the search input 📝
+</code>
+                  </div>
+                  <br />
+            </td>
+      </tr>
+</table>
+
+# :construction_worker: Installation
+
+```
+  // 1 - Git Clone
+
+  // 2 - Installing the dependencies
+  npm install
+
+  // 3 - Run the application in the development mode
+  npm start
+
+```
 
 ### `npm test`
 
@@ -28,38 +70,6 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
 
