@@ -35,7 +35,7 @@
             <td colspan="2">
                   <br />
                   <div>
-                        📱&nbsp; <code>The goal of this project was to demonstrate 📮 how to get feedback from user, fetch data from API or server then show lists of videos(youtube-like) content when you enter in the search input 📝
+                        📱&nbsp; <code>The goal of this project was to demonstrate 📮 how to get feedback from user, fetch data from API or server then show lists of searched videos(youtube-like) content 📝
 </code>
                   </div>
                   <br />
